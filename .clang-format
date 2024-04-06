@@ -1,0 +1,6 @@
+IndentWidth: 2
+AccessModifierOffset: -1
+AllowShortFunctionsOnASingleLine: Empty
+NamespaceIndentation: All
+BreakBeforeBinaryOperators: NonAssignment
+PenaltyBreakAssignment: 80
